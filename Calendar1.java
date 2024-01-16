@@ -117,4 +117,16 @@ public class Calendar1 {
 		}
 		return monthDays;
 	}
+	// TODO: you can write
+	// case 1:
+	// case 3:
+	// case 5:
+	// case 7:
+	// case 8:
+	// case 10:
+	// case 12:
+	// 		monthDays = 31;
+	// 		break;
+	// OR
+	// if (month%2!=0)...
 }
